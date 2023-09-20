@@ -1,0 +1,25 @@
+@font-face{
+    src: url(https://fonts.googleapis.com/css2?family=Open+Sans:wght@300&family=Roboto:wght@300&display=swap);
+   font-family: Roboto }
+
+
+h1{
+    font-family: Roboto, verdana, arial ;
+}
+
+p{
+    font-family: "Open Sans" "lucida console", "courier new" ;
+    font-size : 14px;
+    font-weight: bold;
+    font-style: italic;
+}
+
+h3{ border: 5px double rgb(235, 8, 182);
+    border-radius: 20px;
+    text-shadow: 3px 2px 5px cyan, -3px -2px 5px red;
+}
+
+
+h2{
+    text-shadow: 3px 2px 5px cyan, -3px -2px 5px red;
+}
